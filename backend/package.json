@@ -1,0 +1,24 @@
+{
+    "name": "weather-activity-planner-backend",
+    "version": "1.0.0",
+    "description": "GraphQL scoring engine backend for weather-based activity optimization",
+    "main": "dist/server.js",
+    "scripts": {
+      "dev": "ts-node-dev --respawn --transpile-only src/server.ts",
+      "build": "tsc",
+      "start": "node dist/server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "axios": "^1.6.8",
+      "graphql": "^16.8.1",
+      "graphql-yoga": "^5.3.0"
+    },
+    "devDependencies": {
+      "@types/node": "^20.11.24",
+      "ts-node-dev": "^2.0.0",
+      "typescript": "^5.3.3"
+    }
+  }
