@@ -13,10 +13,10 @@ A production-grade system written in TypeScript that fetches geospatial paramete
 
 ## Execute Below step to run application"
 1. **For frontent execute below command
- **npm i
- **npm run dev
+ - **npm i
+ - **npm run dev
 
 2. **For Backend
- **npm i
- **npm run build
- **npm run start
+ - **npm i
+ - **npm run build
+ - **npm run start
