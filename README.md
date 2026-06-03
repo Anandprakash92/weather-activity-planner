@@ -11,12 +11,12 @@ A production-grade system written in TypeScript that fetches geospatial paramete
 - **Assistance Map**: AI helped scaffold boilerplate type properties for the weather schemas and configured structural GraphQL types.
 - **Human Architectural Judgment**: Manual intervention restructured the scoring mechanics into weighted configuration maps, ensuring that expanding the system with alternative locations or activities does not break existing application behavior.
 
-Execute Below step to run application"
-For frontent execute below command
-npm i
-npm run dev
+## Execute Below step to run application"
+1. **For frontent execute below command
+ **npm i
+ **npm run dev
 
-For Backend
-npm i
-npm run build
-npm run start
+2. **For Backend
+ **npm i
+ **npm run build
+ **npm run start
